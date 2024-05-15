@@ -1,0 +1,76 @@
+body{
+    background-image:url(Untitled\ \(2\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.first{
+    color: rgb(212, 30, 30);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45px;
+    margin-left: 15px;
+}
+.sign{
+    position: relative;
+    right: 5px;
+    margin-left: 1200px;
+    top: -75px;
+    background-color: rgb(211, 24, 24);
+    color: white;
+    border: none;
+    height: 35px;
+    width: 65px;
+    border-radius: 10px;
+    }
+    .sign:hover{
+        background-color:rgb(167, 35, 35);
+    }
+    
+    .second{
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        color: white;
+        font-size: 40px;
+        top: 180px;
+        position: fixed;
+        left: 93px;
+       
+    }
+    .third{
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        color: white;
+        font-size: 50px;
+        position: fixed;
+        bottom: 315px;
+        left: 90px;
+    }
+    .forth{
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        color: white;
+        position: fixed;
+        bottom: 150px;
+        left: 230px;
+    
+    }
+    .email{
+        position: relative;
+        bottom: -350px;
+        left: 300px;
+        height: 50px;
+        width: 500px;
+        font-size: 20px;
+    }
+    .start{
+        position: relative;
+        bottom: -350px;
+        left: 300px;
+        height: 50px;
+        width: 60px;
+        font-size: 20px;
+        background-color: rgb(211, 24, 24);
+        color: white;
+        border: none;
+        border-radius: 5px;
+    }
+    
+    .start:hover{
+        background-color: rgb(141, 19, 19);
+    }
